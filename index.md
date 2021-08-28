@@ -1,3 +1,11 @@
+# Owen Eckart's First CS193 Homework
+Things I like about CS193:
+
+- The instructors are nice
+- I get to learn about how to use github
+- I might learn some new stuff about vim so I can keep beefing up my vimrc file :)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
